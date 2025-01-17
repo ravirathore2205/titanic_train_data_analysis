@@ -4,10 +4,10 @@ Titanic Train Data cleaning and analysis using Python and its libraries Numpy an
 In this repository, I walked through an initial exploration of the Titanic disaster training dataset. The goal of this exploration was to identify its structure, assess its quality, and understand potential issues before performing more detailed analysis.
 
 ### Subjects Covered
-1.Jupyter Notebook: Learn to use this open-source web application
-2.Data Analysis Process
-3.NumPy for 1 and 2D Data
-4.Pandas Series and Dataframes
+- 1.Jupyter Notebook: Learn to use this open-source web application
+- 2.Data Analysis Process
+- 3.NumPy for 1 and 2D Data
+- 4.Pandas Series and Dataframes
 ## load train, test dataset using Pandas
 
 ## Exploratory data analysis
@@ -21,6 +21,5 @@ In this repository, I walked through an initial exploration of the Titanic disas
 - cabin: Cabin number
 - embarked: Port of Embarkation C = Cherbourg, Q = Queenstown, S = Southampton
 
-  ## import python lib for visualization
-  import matplotlib.pyplot as plt
-  %matplotlib inline
+## import python lib for visualization
+
